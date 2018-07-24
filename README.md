@@ -1,2 +1,2 @@
-# hchittanuru3.github.io
-My personal website
+# Personal Website
+This repository has the code for my personal website.
