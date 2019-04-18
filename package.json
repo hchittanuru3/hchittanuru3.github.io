@@ -1,0 +1,19 @@
+{
+  "name": "hemanth-personal-website",
+  "version": "1.0.0",
+  "description": "Hemanth Chittanuru's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hchittanuru3/hchittanuru3.github.io.git"
+  },
+  "author": "Hemanth Chittanuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hchittanuru3/hchittanuru3.github.io/issues"
+  },
+  "homepage": "https://hchittanuru3.github.io"
+}
